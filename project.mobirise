@@ -1169,7 +1169,7 @@
           },
           "title": "WELCOME TO SWEET MOMENTS",
           "text": "Sweet to the cupcakes. <br>Sweetcupcakes will bring sweet moments for you. Join us now !",
-          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"sweetcupcakes.com#features1-20\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"reservation\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-i"
         },
@@ -1236,7 +1236,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"recipes\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title3": "RESPONSIVE",
           "caption3": "Ask us anything about cupcakes :P",
-          "button3": "<a data-app-btn=\"true\" href=\"sweetcupcakes.com#contacts1-9\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#contacts1-n\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
           "title4": "UNLIMITED WEBSITES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
