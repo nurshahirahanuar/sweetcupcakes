@@ -9,13 +9,14 @@
     "screenshot": "screenshot.png",
     "theme": {},
     "noImageResize": "",
-    "uniqCompNum": 0
+    "uniqCompNum": 16
   },
   "pages": {
     "reservation": {
       "settings": {
         "title": "Reservation",
-        "meta_descr": "reservation of any kind events\nreservation for classses"
+        "meta_descr": "reservation of any kind events\nreservation for classses",
+        "order": 2
       },
       "components": [
         {
@@ -318,7 +319,8 @@
     "recipes": {
       "settings": {
         "title": "recipes",
-        "meta_descr": "chocolate cupcakes\nvanilla cupcakes\nblueberry cupcakes\n"
+        "meta_descr": "chocolate cupcakes\nvanilla cupcakes\nblueberry cupcakes\n",
+        "order": 3
       },
       "components": [
         {
@@ -644,8 +646,8 @@
     ".html.com": {
       "settings": {
         "main": true,
-        "title": "sweetcupcakes",
-        "meta_descr": "To create a viable cupcake business, plan to navigate your business to the desired level. Your goals should reflect what you desire to achieve, and your objectives should reflect those specific, measurable tactics or necessary to achieve said goals. ",
+        "title": "index.html",
+        "meta_descr": "",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
       },
