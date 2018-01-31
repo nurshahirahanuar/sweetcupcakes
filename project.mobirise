@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "recipes",
+    "currentPage": ".html.com",
     "versionFirst": "2.5.2",
     "versionPublish": "4.6.3",
     "name": "My Site",
@@ -646,7 +646,7 @@
     ".html.com": {
       "settings": {
         "main": true,
-        "title": "index.html",
+        "title": "sweetcupcakes.com",
         "meta_descr": "",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
