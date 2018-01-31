@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": ".html.com",
+    "currentPage": "reservation",
     "versionFirst": "2.5.2",
     "versionPublish": "4.6.3",
     "name": "My Site",
@@ -9,7 +9,7 @@
     "screenshot": "screenshot.png",
     "theme": {},
     "noImageResize": "",
-    "uniqCompNum": 16
+    "uniqCompNum": 24
   },
   "pages": {
     "reservation": {
@@ -269,8 +269,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"sweetcupcakes.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com#features1-20\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com#contacts1-9\">CONTACT</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-i\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-k\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-n\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -558,8 +558,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"sweetcupcakes.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com#features1-20\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com#contacts1-9\">CONTACT</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-i\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-k\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-n\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -693,8 +693,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"sweetcupcakes.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com#features1-20\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"sweetcupcakes.com#contacts1-9\">CONTACT</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-i\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-k\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-n\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -1056,6 +1056,422 @@
           "text1": "<strong><br></strong><br><strong>ADDRESS</strong><br>1216, Bandar Seri Putra<br>43000, Kajang Selangor<br>Malaysia",
           "text2": "<strong><br></strong><br><strong>CONTACTS</strong><br>\nEmail: sweetcupcakes@yahoo.com<br>\nPhone: 04-3567555<br>\nFax: 04-3567556",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "index.html",
+        "meta_descr": "",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f97352"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#f97352",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/giphy.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sweetcupcakes.com</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-i\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-k\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-n\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-g"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 sweetcupcakes.com . <a class=\"mbr-footer__link text-gray\" href=\"http://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"http://mobirise.com/\">Privacy Policy</a>",
+          "_anchor": "footer1-h"
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "text-align": "center"
+            },
+            "H1": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/almond-cherry-cupcakes-wallpaper-1366x7681366x768-165.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WELCOME TO SWEET MOMENTS",
+          "text": "Sweet to the cupcakes. <br>Sweetcupcakes will bring sweet moments for you. Join us now !",
+          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"sweetcupcakes.com#features1-20\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-i"
+        },
+        {
+          "_styles": {},
+          "_name": "video1",
+          "_params": {
+            "showText": false,
+            "bgColor": "#e25041"
+          },
+          "text": "",
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/embed/i944XxUXkzs?rel=0&autoplay=0&loop=0",
+              "active": true
+            }
+          },
+          "_anchor": "video1-j"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#b8312f",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lkzom13000x1875-122.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "RESERVATION",
+          "caption1": "We accept any kind of reservation events :D",
+          "button1": "<a data-app-btn=\"true\" href=\"reservation\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "title2": "RECIPES",
+          "caption2": "More recipes you can get from us !",
+          "button2": "<a data-app-btn=\"true\" href=\"recipes\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title3": "RESPONSIVE",
+          "caption3": "Ask us anything about cupcakes :P",
+          "button3": "<a data-app-btn=\"true\" href=\"sweetcupcakes.com#contacts1-9\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1310021474662706719113093-glowing-purple-neon-icon-business-home5pink512x512-199.png",
+              "width": 600,
+              "class": "mbr-figure__img",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/food-10-512512x512-161.png",
+              "width": 600,
+              "class": "mbr-figure__img",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/112607-glowing-purple-neon-icon-alphanumeric-icon-091512x512-163.png",
+              "width": 600,
+              "class": "mbr-figure__img",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/112607-glowing-purple-neon-icon-alphanumeric-icon-091512x512-194.png",
+              "width": 600,
+              "class": "mbr-figure__img",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "title6": "HOST ANYWHERE",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_anchor": "features1-k"
+        },
+        {
+          "items": [
+            {
+              "authorName": "MARIA OBAMA",
+              "authorBio": "CUSTOMER",
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing website that makes me want to repeat order your cupcakes. I hope to have any kind of your class to learn your cupcakes with my children”</p>"
+            },
+            {
+              "authorName": "SUFIAN SUHAIMI",
+              "authorBio": "CUSTOMER",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, superb cupcakes. i am expecting the new recipes cupcakes soon. Great effort and extravagants experience with reservation events for any ceremonies, events etc.”</p>"
+            },
+            {
+              "authorName": "JACK &amp; JILL",
+              "authorBio": "CUSTOMER",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice cupcakes, we like the great taste and sweets that was given unique touch on it, we also like the simple cupcakes yet tasty. Give us more delicious cupcakes !! :P</p><p class=\"mbr-reviews__p\">Regards.”</p>"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__author-bio": {
+              "color": "#000000"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#f97352"
+            }
+          },
+          "testimonial": [
+            {
+              "authorName": "MARIA OBAMA",
+              "authorBio": "CUSTOMER",
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing website that makes me want to repeat order your cupcakes. I hope to have any kind of your class to learn your cupcakes with my children”</p>"
+            },
+            {
+              "authorName": "SUFIAN SUHAIMI",
+              "authorBio": "CUSTOMER",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, superb cupcakes. i am expecting the new recipes cupcakes soon. Great effort and extravagants experience with reservation events for any ceremonies, events etc.”</p>"
+            },
+            {
+              "authorName": "JACK &amp; JILL",
+              "authorBio": "CUSTOMER",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice cupcakes, we like the great taste and sweets that was given unique touch on it, we also like the simple cupcakes yet tasty. Give us more delicious cupcakes !! :P</p><p class=\"mbr-reviews__p\">Regards.”</p>"
+            }
+          ],
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lkzom13000x1875-132.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "WHAT OUR CUSTOMERS SAY",
+          "_anchor": "testimonials1-l"
+        },
+        {
+          "_name": "form2",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lkzom13000x1875-138.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_anchor": "form2-m"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "16px",
+              "color": "#f97352",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/homemade-cupcakes960x435-109.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/homemade-cupcakes960x435-100.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "height": 128,
+              "active": true
+            }
+          },
+          "text1": "<strong><br></strong><br><strong>ADDRESS</strong><br>1216, Bandar Seri Putra<br>43000, Kajang Selangor<br>Malaysia",
+          "text2": "<strong><br></strong><br><strong>CONTACTS</strong><br>\nEmail: sweetcupcakes@yahoo.com<br>\nPhone: 04-3567555<br>\nFax: 04-3567556",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_anchor": "contacts1-n"
         }
       ]
     }

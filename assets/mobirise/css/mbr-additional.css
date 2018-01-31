@@ -170,3 +170,61 @@
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
+
+
+
+
+
+#menu-g .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f97352;
+}
+#menu-g .mbr-brand__name a {
+  font-family: 'Roboto', sans-serif;
+}
+#menu-g .mbr-navbar__items a {
+  font-family: 'Slabo 27px', serif;
+}
+#menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-i P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+#header1-i H1 {
+  text-align: center;
+  color: #000000;
+}
+#header1-i .btn {
+  font-family: 'Slabo 27px', serif;
+}
+#features1-k P {
+  font-family: 'Slabo 27px', serif;
+  color: #b8312f;
+  text-align: center;
+}
+#testimonials1-l .mbr-reviews__author-bio {
+  color: #000000;
+}
+#testimonials1-l .mbr-reviews__author-name {
+  color: #f97352;
+}
+#form2-m .btn {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts1-n STRONG {
+  font-size: 16px;
+  color: #f97352;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts1-n P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
